@@ -1,3 +1,3 @@
 # class-assignment
-for college assignment
+for intro to design
 
