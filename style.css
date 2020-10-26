@@ -1,0 +1,51 @@
+body {
+  padding-top: 10rem;
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+.nav-p{
+  display:inline-block;
+  padding-top:.3125rem;
+  padding-bottom:.3125rem;
+  margin-right:1rem;
+  font-size:1.25rem;
+  line-height:inherit;
+  white-space:nowrap;
+  color:white;
+  
+}
+body
+{
+  font-family: 'Verdana', Geneva, sans-serif;
+  font-size: 14px;
+  background-color: #C3B4AB;
+}
+
+tw-passage
+{
+  color: #fffef2;
+}
+
+title-text
+{
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.enchantment-link, tw-link, a
+{
+  color: #BEDAEE;
+}
+
+.enchantment-link:visited, tw-link:visited, .enchantment-link.visited, tw-link.visited, a:visited
+{
+  color: #8e91ab;
+}
+
+.enchantment-link:hover, tw-link:hover, a:hover
+{
+  color: #ad97ad;
+  text-shadow: 2px 2px grey;
+}
